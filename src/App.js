@@ -1,11 +1,12 @@
 import './App.css';
+import qrCode from './images/image-qr-code.png'
 
 function App() {
   return (
     <div className="App">
       <div className='container'>
         <div className='qr-code'>
-
+          <img src={qrCode} className='image' alt='qr code' />
         </div>
         <div className='descript'>
           <h1 className='main-text'>
