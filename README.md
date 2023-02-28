@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -38,12 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-- WIP
-
-### Continued development
-
-I want to try to focus more on making things more responsive using css styling. 
-
+- Finally getting back into the swing of things. Doing a project like this was nice for me to relearn all of things I had forgotten. HTML inside of React was a great refresher. Learning more about using CSS and using flexbox to achieve part of this solution.  
 
 ## Author
 
