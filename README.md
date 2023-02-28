@@ -19,15 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./mobile.png)
-
+![](./desktop.png)
 
 
 ### Links
 
-
-- ALSO WIP
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Link to Repo: [Repo](https://github.com/jacobnighdev/qr-code)
+- Live Site URL: [QR Code App](https://qr-code-ten-mu.vercel.app)
 
 ## My process
 
