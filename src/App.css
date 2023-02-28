@@ -16,12 +16,12 @@ body {
 .container {
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  max-width: 85%;
-  
+  width: 320px;
+  height: 497px;
 }
 
 .qr-code {
-  height: 50%;
+  height: 60%;
   width: 100%;
   display: flex;
   align-items: center;
@@ -29,14 +29,13 @@ body {
 }
 
 .descript {
-  height: 50%;
+  height: 40%;
   width: 100%;
 }
 .image {
-  max-width: 90%;
   max-height: 100%;
   border-radius: 10px;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 h1 {
   color: hsl(218, 44%, 22%);
